@@ -28,7 +28,7 @@ $modelos = ModelHelper::createMultiple(MyModel::class, $modelosIniciales);
 ## 📦 Instalación (Composer)
 
 ```bash
-composer require jiuly256/yii2-modelhelper
+composer require jiuly256/yii2-multi-model-helper:dev-main
 ```
 
 ## 🔧 Uso básico en controlador
